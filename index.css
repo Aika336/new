@@ -1,0 +1,189 @@
+.mediaViewInfo {
+	--web-view-name: iPhone X, XS, 11 Pro – 1;
+	--web-view-id: iPhone_X_XS_11_Pro__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_X_XS_11_Pro__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_X_XS_11_Pro__1 {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone X, XS, 11 Pro – 1;
+	--web-view-id: iPhone_X_XS_11_Pro__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#_2 {
+	fill: rgba(135,135,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._2 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 106px;
+	left: 0px;
+	top: 0px;
+}
+#_2__1 {
+	position: absolute;
+	width: 148px;
+	height: 148px;
+	left: 114px;
+	top: 451px;
+	overflow: visible;
+}
+#_1__1 {
+	position: absolute;
+	width: 148px;
+	height: 148px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#_3 {
+	fill: rgba(62,62,62,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._3 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 148px;
+	left: 0px;
+	top: 0px;
+}
+#TAP {
+	left: 41px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#_4 {
+	fill: rgba(230,230,230,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._4 {
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	height: 99px;
+	left: 40px;
+	top: 206px;
+}
+#_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._1 {
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	height: 77px;
+	left: 288px;
+	top: 15px;
+}
+#_3__1 {
+	position: absolute;
+	width: 375px;
+	height: 106px;
+	left: 0px;
+	top: 706px;
+	overflow: visible;
+}
+#_5 {
+	fill: rgba(135,135,135,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._5 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 106px;
+	left: 0px;
+	top: 0px;
+}
+#icons8--50 {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 39px;
+	top: 28px;
+	overflow: visible;
+}
+#icons8---50 {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 163px;
+	top: 28px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: iPhone_X__XS__11_Pro___2.html;
+	cursor: pointer;
+}
+#icons8--2-50 {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 287px;
+	top: 28px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: iPhone_X__XS__11_Pro___3.html;
+	cursor: pointer;
+}
